@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-17T06:48:10.532Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="s-fOpesDqNvLhDaw4o38" version="15.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-17T06:56:14.545Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="YmHdDinguOzpzOf6QEoN" version="15.7.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="946" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -50,7 +50,7 @@
         <mxCell id="uyb0emuRpycC16GE7u8f-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uyb0emuRpycC16GE7u8f-21" target="uyb0emuRpycC16GE7u8f-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uyb0emuRpycC16GE7u8f-21" value="&lt;span&gt;broadcast error rate and model&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="uyb0emuRpycC16GE7u8f-21" value="&lt;span&gt;broadcast error rate&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="200" y="520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uyb0emuRpycC16GE7u8f-26" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uyb0emuRpycC16GE7u8f-23" target="uyb0emuRpycC16GE7u8f-25">
@@ -60,7 +60,7 @@
           <mxGeometry x="350" y="630" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uyb0emuRpycC16GE7u8f-25" value="train the model by its own ledger&#39;s data set" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="470" y="640" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uyb0emuRpycC16GE7u8f-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uyb0emuRpycC16GE7u8f-25" target="uyb0emuRpycC16GE7u8f-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
