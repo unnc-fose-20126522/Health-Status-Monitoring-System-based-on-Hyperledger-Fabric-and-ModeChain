@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2021-11-17T04:05:13.405Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="3ebdf8skvGGWKoeunhSf" version="15.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-17T05:31:22.771Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="obXt40hCojg531x1P2l1" version="15.7.4" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="946" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="eEtC7sX34TED1RY3KN9g-7" value="Orgnazation" style="swimlane;" vertex="1" parent="1">
+        <mxCell id="eEtC7sX34TED1RY3KN9g-7" value="Organization" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="280" y="420" width="460" height="180" as="geometry" />
         </mxCell>
         <mxCell id="eEtC7sX34TED1RY3KN9g-8" value="Hospital / Healthcare Institution node" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="eEtC7sX34TED1RY3KN9g-7">
@@ -43,7 +43,7 @@
             <mxPoint x="124.01999999999998" y="129.99500000000012" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eEtC7sX34TED1RY3KN9g-21" value="Orgnazation" style="swimlane;" vertex="1" parent="1">
+        <mxCell id="eEtC7sX34TED1RY3KN9g-21" value="Organization" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="280" y="200" width="460" height="180" as="geometry" />
         </mxCell>
         <mxCell id="eEtC7sX34TED1RY3KN9g-22" value="Hospital / Healthcare Institution node" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="eEtC7sX34TED1RY3KN9g-21">
@@ -103,7 +103,7 @@
             <mxPoint x="440" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eEtC7sX34TED1RY3KN9g-37" value="Orgnazation" style="swimlane;" vertex="1" parent="1">
+        <mxCell id="eEtC7sX34TED1RY3KN9g-37" value="Organization" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="10" y="630" width="460" height="180" as="geometry" />
         </mxCell>
         <mxCell id="eEtC7sX34TED1RY3KN9g-38" value="Hospital / Healthcare Institution node" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="eEtC7sX34TED1RY3KN9g-37">
