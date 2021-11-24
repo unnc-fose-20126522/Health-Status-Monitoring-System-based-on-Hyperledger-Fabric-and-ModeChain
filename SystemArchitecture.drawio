@@ -1,1 +1,75 @@
-<mxfile host="app.diagrams.net" modified="2021-11-24T02:45:21.254Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="GRiY-tLMHbIZUFAPyWnA" version="15.8.2" type="github"><diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">7Vttb5s6GP01SHcfVoEJSfuxYckmLbmr2m77eOWCA9YIRsZ526+fDTaEOGlhd2m8JlLUwMMTg59zfGyfJpbrz9cfKcziKQlRYgE7XFvuBwsABwCXv4nIpowMbgZlIKI4lEl14AH/RDJoy+gChyhvJDJCEoazZjAgaYoC1ohBSsmqmTYjSfOuGYyQFngIYKJHv+OQxWX02rPr+CeEo1jd2bHllTlUyTKQxzAkq0YIrdmYpEw+4h2ic5iilPErU0h/IGp5o5gx0dNbC4z5ayayryJCogTBDOdXAZnzcJDzlPEMznEiyrzV0FA2xG/njizXp4Sw8mi+9lEisFIwlM80PnC1qgMV7bb4gP9+uZn8sFn6aeV+Y9NpdDd4ei9bWcJkIesra8M2quAo5PWXp/xWmG3uUQIZJumovjJEaXgr0OVJo/ufiJJHMoUp7/wwZ5Cy+hpJZfoY88dzPzgqRZ7b/FzvmnzOnCxogJ7pD+hJSkIaIfZMYl8CHjbYJiv3EZE5YnTDE1Y1xyomxdv8UkFaFGXZZCmUTIqqBqt73BFcEEsOTLcn21HDUlFSNVF2XX5qG+adhno7DfV3GypLozXED7Y6XocKFnVhFHhjlHJbMsoZGEapnt1kgnP9u5TqNxsCtveqlNIZ9YWGiOYar7iiZ+KQwaeCQQUJ5BTmChbwSYlBnHL9LVkSkCSBWY6L9DIS4yScwA1ZMNWQOhvO8BqF9+UMJnI5/ya8sVxSTMwFitXiMkxwlPLjgFNO3HFIUc6fZQJzJjMOknKJKEPrZ1mksPF2QFbDfYtlwNvHMtc+TKgGgl3hcl8WAAUU7zrDMLnnCwWYRgVmTUhEXUNKskc1+kQgE0RDdLRE5VRdFJ8PdZ8kRCCbloJQpBWd84b8xbvr21ee5fEH8Pm5U5/zl0inzCdpzijEBRyIA7VCAqwhI5m8T4Jm6jGoLKY4fiKM8Zn/EKzP0vplrCW2bktoj4ZsT0P27nMXbAnv6ywpVDvGYYjSckiKdSKs8d4D5d76VzXfBWN3ILbEw22NxxYA7mvW39PqT4QQ/sc/5APr1i5V+98vj+Lv18nEqpa6JsGjdLHMHeYZDHAaTcpP9nfw846B39o6OJ7Aa+LZP2el3L8q+zNK2T+1Ug40ZMefnS7gvtJYbAlAvzUAp5LGa63gwSLnfS7VEeyRRuOweFEX/zhYpujgzUUHj6ODN6fWQeUa/ia0ZqngTevyn0oFHd3PK1eIIWSIx+XbWchge7RMkUFH3zk/xDibF6J18To0rwNct5S343kdjr4lPqOpq8Pm2mm/OzPF7XD07fZbsjsq6ho8nekb5FwK4sXz6AqiMbOcvjc+I8nssNzsLpkntz0cfRv+V/seFVcN1kh981yZwmdle3TAyhQpBP9vd3yRQoOdD6BvxQ0cfC3rXxHVXB1U5d23VjxD96MDYsaooW5/+NLDv9gf1tZXOzp/1cM+GmQX+6PlcPz77A/wtu0PYL79AXT746V/ap6T99EBQWOmuIv3cSy9PLn3AXTvw8DB2Lb+5hsfQDc+KnVM4Vys9IMY0n88+93ZLPpNskD4af3jlvKr4PUvktzRLw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-11-24T03:01:35.927Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="DQHKkDXVepzN4l4_WHa3" version="15.8.2" type="github">
+  <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
+    <mxGraphModel dx="748" dy="555" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="C-vyLk0tnHw3VtMMgP7b-12" value="" style="edgeStyle=entityRelationEdgeStyle;endArrow=ERzeroToMany;startArrow=ERone;endFill=1;startFill=0;" parent="1" target="C-vyLk0tnHw3VtMMgP7b-17" edge="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="700" y="165" as="sourcePoint" />
+            <mxPoint x="460" y="205" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AP_lhbo0x5OcAhG_kdzt-1" value="Data Collection" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry y="160" width="200" height="110" as="geometry">
+            <mxRectangle x="20" y="160" width="120" height="23" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AP_lhbo0x5OcAhG_kdzt-2" value="Smart Watch" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="AP_lhbo0x5OcAhG_kdzt-1">
+          <mxGeometry x="40" y="30" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AP_lhbo0x5OcAhG_kdzt-3" value="Pectoral Girdle" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="AP_lhbo0x5OcAhG_kdzt-1">
+          <mxGeometry x="40" y="70" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AP_lhbo0x5OcAhG_kdzt-4" value="User Terminal" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="280" y="160" width="200" height="110" as="geometry">
+            <mxRectangle x="200" y="160" width="110" height="23" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AP_lhbo0x5OcAhG_kdzt-5" value="Mobile" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="AP_lhbo0x5OcAhG_kdzt-4">
+          <mxGeometry x="45" y="30" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AP_lhbo0x5OcAhG_kdzt-6" value="Personal Computer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="AP_lhbo0x5OcAhG_kdzt-4">
+          <mxGeometry x="45" y="70" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AP_lhbo0x5OcAhG_kdzt-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AP_lhbo0x5OcAhG_kdzt-1" target="AP_lhbo0x5OcAhG_kdzt-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="310" as="sourcePoint" />
+            <mxPoint x="410" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AP_lhbo0x5OcAhG_kdzt-8" value="Hospital" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="550" y="340" width="160" height="120" as="geometry">
+            <mxRectangle x="380" y="160" width="80" height="23" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AP_lhbo0x5OcAhG_kdzt-9" value="Computing site" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="AP_lhbo0x5OcAhG_kdzt-8">
+          <mxGeometry x="35" y="30" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AP_lhbo0x5OcAhG_kdzt-10" value="Doctor Terminal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="AP_lhbo0x5OcAhG_kdzt-8">
+          <mxGeometry x="35" y="70" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AP_lhbo0x5OcAhG_kdzt-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AP_lhbo0x5OcAhG_kdzt-4" target="AP_lhbo0x5OcAhG_kdzt-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="310" as="sourcePoint" />
+            <mxPoint x="410" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AP_lhbo0x5OcAhG_kdzt-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="AP_lhbo0x5OcAhG_kdzt-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AP_lhbo0x5OcAhG_kdzt-13" value="Blockchain Network" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="300" y="340" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="AP_lhbo0x5OcAhG_kdzt-15" value="User Terminal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="AP_lhbo0x5OcAhG_kdzt-13">
+          <mxGeometry x="20" y="30" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AP_lhbo0x5OcAhG_kdzt-16" value="Hospital" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="AP_lhbo0x5OcAhG_kdzt-13">
+          <mxGeometry x="25" y="80" width="110" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
