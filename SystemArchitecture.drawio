@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-24T06:49:03.893Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="EaCalLDfeSld2b74gZDh" version="15.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-24T07:15:38.643Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="SRg3gHemQLvBlmP6lH1-" version="15.8.2" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="1351" dy="923" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="946" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,9 +10,9 @@
             <mxPoint x="460" y="205" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AP_lhbo0x5OcAhG_kdzt-1" value="Data Collection" style="swimlane;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="180" y="170" width="120" height="23" as="geometry">
-            <mxRectangle x="180" y="170" width="195" height="110" as="alternateBounds" />
+        <mxCell id="AP_lhbo0x5OcAhG_kdzt-1" value="Data Collection" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="180" y="170" width="195" height="110" as="geometry">
+            <mxRectangle x="180" y="170" width="120" height="23" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AP_lhbo0x5OcAhG_kdzt-2" value="Smart Watch" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="AP_lhbo0x5OcAhG_kdzt-1">
@@ -28,9 +28,9 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AP_lhbo0x5OcAhG_kdzt-13" value="Blockchain Network" style="swimlane;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="400" y="247" width="150" height="23" as="geometry">
-            <mxRectangle x="400" y="247" width="490" height="380" as="alternateBounds" />
+        <mxCell id="AP_lhbo0x5OcAhG_kdzt-13" value="Blockchain Network" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="400" y="247" width="490" height="380" as="geometry">
+            <mxRectangle x="400" y="247" width="150" height="23" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AP_lhbo0x5OcAhG_kdzt-8" value="Hospital" style="swimlane;" vertex="1" parent="AP_lhbo0x5OcAhG_kdzt-13">
@@ -105,9 +105,9 @@
         <mxCell id="AP_lhbo0x5OcAhG_kdzt-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="AP_lhbo0x5OcAhG_kdzt-30" target="AP_lhbo0x5OcAhG_kdzt-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AP_lhbo0x5OcAhG_kdzt-30" value="Data Collection" style="swimlane;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="160" y="310" width="120" height="23" as="geometry">
-            <mxRectangle x="160" y="310" width="190" height="110" as="alternateBounds" />
+        <mxCell id="AP_lhbo0x5OcAhG_kdzt-30" value="Data Collection" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="160" y="310" width="190" height="110" as="geometry">
+            <mxRectangle x="160" y="310" width="120" height="23" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AP_lhbo0x5OcAhG_kdzt-31" value="Smart Watch" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="AP_lhbo0x5OcAhG_kdzt-30">
