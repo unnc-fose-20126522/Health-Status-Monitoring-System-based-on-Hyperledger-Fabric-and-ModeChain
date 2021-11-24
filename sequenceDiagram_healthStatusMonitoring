@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-24T03:50:45.406Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="HbXqjUt2kI4MtJ4U--f1" version="15.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-24T03:51:40.877Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="GS09b9A0rM5t49oy9ceZ" version="15.8.2" type="github">
   <diagram id="nwuD08-5340ebcpt4CFR" name="Page-1">
     <mxGraphModel dx="748" dy="555" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -64,7 +64,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oQHlHHjUA9B3Uu1LvGL6-12" value="data upload" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="oQHlHHjUA9B3Uu1LvGL6-8">
+        <mxCell id="oQHlHHjUA9B3Uu1LvGL6-12" value="upload data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="oQHlHHjUA9B3Uu1LvGL6-8">
           <mxGeometry x="-0.1089" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -72,7 +72,7 @@
         <mxCell id="oQHlHHjUA9B3Uu1LvGL6-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oQHlHHjUA9B3Uu1LvGL6-1" target="oQHlHHjUA9B3Uu1LvGL6-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oQHlHHjUA9B3Uu1LvGL6-11" value="data collection" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="oQHlHHjUA9B3Uu1LvGL6-10">
+        <mxCell id="oQHlHHjUA9B3Uu1LvGL6-11" value="collect data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="oQHlHHjUA9B3Uu1LvGL6-10">
           <mxGeometry x="0.0947" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
