@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-24T06:44:03.642Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="BNhjdRC3VGHrBaKCB69J" version="15.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-24T06:49:03.893Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="EaCalLDfeSld2b74gZDh" version="15.8.2" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="1069" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="1351" dy="923" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -28,9 +28,9 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AP_lhbo0x5OcAhG_kdzt-13" value="Blockchain Network" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="400" y="247" width="490" height="380" as="geometry">
-            <mxRectangle x="400" y="247" width="150" height="23" as="alternateBounds" />
+        <mxCell id="AP_lhbo0x5OcAhG_kdzt-13" value="Blockchain Network" style="swimlane;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="400" y="247" width="150" height="23" as="geometry">
+            <mxRectangle x="400" y="247" width="490" height="380" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AP_lhbo0x5OcAhG_kdzt-8" value="Hospital" style="swimlane;" vertex="1" parent="AP_lhbo0x5OcAhG_kdzt-13">
